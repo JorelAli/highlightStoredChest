@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "dev.jorel.regexargmod.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "mixins": [],
+    "client": [
+        "RegexMixin"
+    ],
+    "injectors": {
+        "defaultRequire": 1
+    }
+}
